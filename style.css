@@ -1,0 +1,15 @@
+.galeria {
+    display: inline-table;
+    width: 100px;
+    height: 100px;
+    border-radius: 0%;
+    margin: 15px;
+
+
+    img {
+        width: 300%;
+        height: 300%;
+
+    }
+}
+
